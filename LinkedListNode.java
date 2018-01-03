@@ -1,4 +1,4 @@
-package week2.challenges;
+package week2.intq;
 
 public interface LinkedListNode<E> {
 
